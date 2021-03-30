@@ -5,3 +5,8 @@ import logger from'./fancyLogger.js'
     logger.log('First File')
     logger.printLogCount()
  }
+
+ //console
+ // 0 logs
+ // Fancy: First file
+ // 1 logs
