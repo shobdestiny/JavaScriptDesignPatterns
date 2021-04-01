@@ -1,6 +1,7 @@
 //Factory is an object that manufacture other objects
 //Factory allow you to create object in a centralised location
 //No worries about const obj = new object() >> leads to clean code
+
 //SCENARIO >
 //Company has developers and testers - we are creating a Db to keep track of employees
 //We will keep record of employees in a simple array

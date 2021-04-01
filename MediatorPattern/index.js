@@ -52,3 +52,9 @@ MyWorkflow.prototype.doStuff = function(){
   // set up event handlers for those objects.
   // coordinate all of the objects into a meaningful workflow.
 };
+
+
+
+
+
+//Mediator Pattern >> https://www.youtube.com/watch?v=ZuhgOu-DGA4&list=PLREW9ZuU80uTfmxo61-acnUYk3P_4plIF&index=10

@@ -55,7 +55,7 @@ var vehicle = {
       value: "Ford",
       enumerable: true
     }
-   
+
 });
 
 /**************************************************************************/
@@ -91,12 +91,12 @@ car.getModel();
 /**************************************************************************/
 
 //FINAL ALTERNATIVE
-var beget = (function () {
+// var beget = (function () {
  
-    function F() {}
+//     function F() {}
  
-    return function ( proto ) {
-        F.prototype = proto;
-        return new F();
-    };
-})();
+//     return function ( proto ) {
+//         F.prototype = proto;
+//         return new F();
+//     };
+// })();
