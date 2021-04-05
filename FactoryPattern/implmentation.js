@@ -30,7 +30,7 @@ function EmployeeFactory() {
 }
 
 function say(){
-    console.log("Hi, I am " + this.name + "and I am " + this.type)
+    console.log("Hi, I am " + this.name + " and I am " + this.type)
 }
 
 const employeeFactory  = new EmployeeFactory()
